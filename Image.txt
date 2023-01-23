@@ -1,0 +1,28 @@
+
+Image in html
+
+<html lang="en">
+<head>
+    <title>Image</title>
+</head>
+<body>
+    <div>
+        <img src="https://www.shutterstock.com/image-vector/creative-hand-lettering-hindi-text-260nw-1274075188.jpg" width="250px" height="400px" alt="image of Bharth"/>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+         Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
+         Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
+    </div>
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFaa3a3r4mzkc7sPIHLcHXYiWTVwNi70xPg&usqp=CAU" width="400px" height="400px" alt="image of temple"/>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
+            Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
+    </div>
+     <div>
+        <img src="https://www.tourmyindia.com/states/tamilnadu/image/tamilnadu-banner.webp" width="300px" height="300px" alt="image of temple"/>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
+            Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
+    </div>
+</body>
+</html>
