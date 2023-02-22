@@ -7,13 +7,13 @@ Image in html
 </head>
 <body>
     <div>
-        <img src="https://www.shutterstock.com/image-vector/creative-hand-lettering-hindi-text-260nw-1274075188.jpg" width="250px" height="400px" alt="image of Bharth"/>
+        <img src="https://www.shutterstock.com/image-vector/creative-hand-lettering-hindi-text-260nw-1274075188.jpg" width="300px" height="300px" alt="image of Bharth"/>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
          Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
          Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
     </div>
     <div>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFaa3a3r4mzkc7sPIHLcHXYiWTVwNi70xPg&usqp=CAU" width="400px" height="400px" alt="image of temple"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFaa3a3r4mzkc7sPIHLcHXYiWTVwNi70xPg&usqp=CAU" width="300px" height="300px" alt="image of temple"/>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
             Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
@@ -23,6 +23,13 @@ Image in html
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Cum, sint reiciendis magni quam facere, suscipit excepturi voluptatem, eius error perferendis dolor. 
             Assumenda quos deleniti iure cum distinctio corrupti molestias animi.</p>
+    </div>
+
+    <div>
+        <img src="https://i.pinimg.com/236x/fe/b0/09/feb009375792664aedd66846a6f8aeb6.jpg" width="300" height="500px"/>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, ratione.
+             Accusamus quidem qui totam minus incidunt laudantium esse dolores veritatis,
+              repudiandae quam tenetur, numquam ad fuga unde, iste et provident!</p>
     </div>
 </body>
 </html>
