@@ -1,0 +1,60 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: #dedede;
+            font-family: sans-serif;
+        }
+        #special{
+            border: solid 8px rebeccapurple;
+        }
+        h1{
+            color: orange;
+        }
+        .box{
+            border: solid 4px orangered;
+        }
+        
+        div{
+            border: solid 1px forestgreen;
+            width: 150px;
+            height: 100px;
+        }
+        div p{
+            text-align: center;
+            font-weight: bold;
+        }
+        
+    </style>
+    
+</head>
+<body>  
+    <h1 style="color: forestgreen;">The Cascade Specificity and Inheritance</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+        Harum maiores voluptas inventore eos.Animi ex quibusdam,
+        dolorem consectetur assumenda quidem blanditiis suscipit delectus amet labore,
+        facere rem ipsam atque ratione!</p>
+
+    <section>
+        <div class="Box">
+            <p>Box 1</p>
+        </div>
+
+        <div class="Box" id="Special">
+            <p>Box 2</p>
+        </div>
+        
+        <div class="Box">
+            <p>Box 3</p>
+        </div>
+
+        <div>
+            <p>Box 4</p>
+        </div>
+    </section>
+</body>
+</html>
